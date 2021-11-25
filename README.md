@@ -1,6 +1,6 @@
 # IWSHM-LaTeX-Template
 
-LaTeX template for the International Workshop on Structural Health Monitoring (IWSHM). Developed by Austin Downey for the 10th IWSHM  in 2015. 
+LaTeX template for the International Workshop on Structural Health Monitoring (IWSHM). 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
